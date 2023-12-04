@@ -12,7 +12,7 @@ const update = require("./routes/update");
 dotenv.config();
 const app = express();
 
-const port = process.env.PORT;
+const port = process.env.PORT||5001;
 const DatabaseURL = process.env.DATABASEURL;
 const CorsOptions = {
     origin: "*",
