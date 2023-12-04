@@ -66,9 +66,9 @@ List of available routes:
 
 
 **User routes**:\
-`POST api/books/` - Add a book
-`GET api/books/` - Get Books (optional parameters can be passed such as id, name, email, author, year, and the parameters should be passed in the body)
-`PUT api/books/:id` - Update Book
+`POST api/books/` - Add a book\
+`GET api/books/` - Get Books (optional parameters can be passed such as id, name, email, author, year, and the parameters should be passed in the body)\
+`PUT api/books/:id` - Update Book\
 
 ## License
 
