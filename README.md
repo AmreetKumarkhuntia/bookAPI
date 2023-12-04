@@ -5,7 +5,7 @@
 Clone the repo:
 
 ```bash
-git clone [https://github.com/libeyondea/backend-node-express.git](https://github.com/AmreetKumarkhuntia/bookAPI.git)
+git clone https://github.com/AmreetKumarkhuntia/bookAPI.git
 ```
 
 Install the dependencies:
